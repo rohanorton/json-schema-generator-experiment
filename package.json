@@ -1,0 +1,11 @@
+{
+  "description": "Generate JSON-Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
